@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.7718b618.chunk.css",
+    "main.js": "/my-app/static/js/main.21cae429.chunk.js",
+    "main.js.map": "/my-app/static/js/main.21cae429.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.42eb028f.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.42eb028f.js.map",
+    "static/js/2.64275086.chunk.js": "/my-app/static/js/2.64275086.chunk.js",
+    "static/js/2.64275086.chunk.js.map": "/my-app/static/js/2.64275086.chunk.js.map",
+    "static/js/3.84b6c1dd.chunk.js": "/my-app/static/js/3.84b6c1dd.chunk.js",
+    "static/js/3.84b6c1dd.chunk.js.map": "/my-app/static/js/3.84b6c1dd.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.7718b618.chunk.css.map": "/my-app/static/css/main.7718b618.chunk.css.map",
+    "static/js/2.64275086.chunk.js.LICENSE.txt": "/my-app/static/js/2.64275086.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-app/static/media/Die-Höhle-der-Löwen-Jury-800x450.7c62417d.jpg",
+    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42eb028f.js",
+    "static/js/2.64275086.chunk.js",
+    "static/css/main.7718b618.chunk.css",
+    "static/js/main.21cae429.chunk.js"
+  ]
+}
