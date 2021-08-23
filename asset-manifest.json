@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PitchItJules/static/css/main.d5f9e3b3.chunk.css",
-    "main.js": "/PitchItJules/static/js/main.21cae429.chunk.js",
-    "main.js.map": "/PitchItJules/static/js/main.21cae429.chunk.js.map",
+    "main.css": "/PitchItJules/static/css/main.972d2612.chunk.css",
+    "main.js": "/PitchItJules/static/js/main.92ab0485.chunk.js",
+    "main.js.map": "/PitchItJules/static/js/main.92ab0485.chunk.js.map",
     "runtime-main.js": "/PitchItJules/static/js/runtime-main.06758145.js",
     "runtime-main.js.map": "/PitchItJules/static/js/runtime-main.06758145.js.map",
     "static/js/2.64275086.chunk.js": "/PitchItJules/static/js/2.64275086.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.84b6c1dd.chunk.js": "/PitchItJules/static/js/3.84b6c1dd.chunk.js",
     "static/js/3.84b6c1dd.chunk.js.map": "/PitchItJules/static/js/3.84b6c1dd.chunk.js.map",
     "index.html": "/PitchItJules/index.html",
-    "static/css/main.d5f9e3b3.chunk.css.map": "/PitchItJules/static/css/main.d5f9e3b3.chunk.css.map",
+    "static/css/main.972d2612.chunk.css.map": "/PitchItJules/static/css/main.972d2612.chunk.css.map",
     "static/js/2.64275086.chunk.js.LICENSE.txt": "/PitchItJules/static/js/2.64275086.chunk.js.LICENSE.txt",
     "static/media/App.css": "/PitchItJules/static/media/Die-Höhle-der-Löwen-Jury-800x450.7c62417d.jpg",
     "static/media/logo.6ce24c58.svg": "/PitchItJules/static/media/logo.6ce24c58.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.06758145.js",
     "static/js/2.64275086.chunk.js",
-    "static/css/main.d5f9e3b3.chunk.css",
-    "static/js/main.21cae429.chunk.js"
+    "static/css/main.972d2612.chunk.css",
+    "static/js/main.92ab0485.chunk.js"
   ]
 }
